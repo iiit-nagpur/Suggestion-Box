@@ -8,4 +8,6 @@ Have any idea of hosting any project here, [open an issue](https://github.com/ii
 
 __TL;DR: A place to give suggestions for new projects or ways to improve our current endeavours. Type away :)__
 
+SUGGESTIONS HERE:
+* We should create a something like a flow of content. The content should be like what we have learnt till now in our college courses, and collecting relevant material for the same.
 
